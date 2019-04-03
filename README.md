@@ -5,7 +5,7 @@ Retorna o cpf ou cnpj do titular de sites cadastrados no Registro.br, note que p
 ## Uso
 Você irá precisar da versão mais recente do [Python](https://www.python.org/downloads/)  3. Execute o arquivo whoOwns.py
 ```py
-$python3 whoOwns.py
+$ python3 whoOwns.py
 ```
 Informe a url sem necessidade do *http://*
 ## Exemplo:
